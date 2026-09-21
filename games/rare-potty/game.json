@@ -1,0 +1,14 @@
+{
+  "name": "Rare Potty",
+  "consumable": "Potty Pass",
+  "price": "2000000000000000000",
+  "outcomes": [
+    { "name": "Suspicious Smell", "chanceBps": 3600, "reward": "0" },
+    { "name": "Plunger Hat", "chanceBps": 2400, "reward": "0" },
+    { "name": "Toilet Paper Mummy", "chanceBps": 1700, "reward": "0" },
+    { "name": "Tiny Toilet Companion", "chanceBps": 1100, "reward": "0" },
+    { "name": "Golden Turd", "chanceBps": 700, "reward": "1000000000000000000" },
+    { "name": "Mutant Friend", "chanceBps": 400, "reward": "2000000000000000000" },
+    { "name": "Portal to the Sewerverse", "chanceBps": 100, "reward": "5000000000000000000" }
+  ]
+}
